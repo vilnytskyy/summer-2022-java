@@ -1,1 +1,1 @@
-# summer-2022-java
+# Summer 2022 Java
